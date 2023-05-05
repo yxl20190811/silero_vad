@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/download-glog-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/verify-glog-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/extract-glog-populate.cmake
+source_dir=D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/glog-src
+work_dir=D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang
+url(s)=https://github.com/google/glog/archive/v0.4.0.zip
+hash=SHA256=9e1b54eb2782f53cd8af107ecf08d2ab64b8d0dc2b7f5594472f3bd63ca85cdc
+no_extract=
+

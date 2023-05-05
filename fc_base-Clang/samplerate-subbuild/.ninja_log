@@ -1,0 +1,21 @@
+# ninja log v5
+1	42	7050117642879696	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-mkdir	b0955646d5a114c4
+1	42	7050117642879696	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-mkdir	b0955646d5a114c4
+43	2332	7050117665762884	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-download	9575d97b7bc54bc8
+43	2332	7050117665762884	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-download	9575d97b7bc54bc8
+2332	2372	7050117666162663	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-update	4d92417eaf9b0b7d
+2332	2372	7050117666162663	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-update	4d92417eaf9b0b7d
+2372	2409	7050117666553906	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-patch	97105b73df6c95fa
+2372	2409	7050117666553906	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-patch	97105b73df6c95fa
+2409	2448	7050117666945759	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-configure	fad3352d5dcaf5dc
+2409	2448	7050117666945759	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-configure	fad3352d5dcaf5dc
+2448	2487	7050117667312089	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-build	ccfee6c4a526e5a6
+2448	2487	7050117667312089	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-build	ccfee6c4a526e5a6
+2487	2525	7050117667705901	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-install	491b763b44920fdb
+2487	2525	7050117667705901	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-install	491b763b44920fdb
+2525	2563	7050117668074146	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-test	b3ee007fa05e9246
+2525	2563	7050117668074146	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-test	b3ee007fa05e9246
+2563	2615	7050117668598745	CMakeFiles/samplerate-populate-complete	920b61fef2d61763
+2563	2615	7050117668598745	samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-done	920b61fef2d61763
+2563	2615	7050117668598745	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/CMakeFiles/samplerate-populate-complete	920b61fef2d61763
+2563	2615	7050117668598745	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-done	920b61fef2d61763

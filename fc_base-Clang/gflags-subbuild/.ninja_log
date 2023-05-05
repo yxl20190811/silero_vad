@@ -1,0 +1,21 @@
+# ninja log v5
+1	43	7050117617804500	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-mkdir	9fbc122e36d6d2bc
+1	43	7050117617804500	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-mkdir	9fbc122e36d6d2bc
+43	1293	7050117630296383	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-download	8b753ba2f0f2327c
+43	1293	7050117630296383	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-download	8b753ba2f0f2327c
+1293	1331	7050117630679647	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-update	444146d3f4cf7553
+1293	1331	7050117630679647	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-update	444146d3f4cf7553
+1340	1377	7050117631160628	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-patch	65caa7023ce1e0fb
+1340	1377	7050117631160628	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-patch	65caa7023ce1e0fb
+1378	1416	7050117631532784	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-configure	3afb75dd57cc8b72
+1378	1416	7050117631532784	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-configure	3afb75dd57cc8b72
+1416	1455	7050117631924479	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-build	44c59c7b8cbefaf6
+1416	1455	7050117631924479	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-build	44c59c7b8cbefaf6
+1455	1495	7050117632328610	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-install	1c625f38e5ca1228
+1455	1495	7050117632328610	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-install	1c625f38e5ca1228
+1495	1536	7050117632737331	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-test	c9c9cf890da57227
+1495	1536	7050117632737331	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-test	c9c9cf890da57227
+1536	1587	7050117633259674	CMakeFiles/gflags-populate-complete	7200c0b42ccdb821
+1536	1587	7050117633259674	gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-done	7200c0b42ccdb821
+1536	1587	7050117633259674	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/gflags-populate-complete	7200c0b42ccdb821
+1536	1587	7050117633259674	D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-done	7200c0b42ccdb821

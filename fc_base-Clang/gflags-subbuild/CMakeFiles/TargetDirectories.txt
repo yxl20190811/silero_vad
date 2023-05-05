@@ -1,0 +1,3 @@
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/gflags-populate.dir
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/edit_cache.dir
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ onnxruntime-populate
+# Source files and their labels
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate-complete.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-build.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-configure.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-download.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-install.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-mkdir.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-patch.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-test.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-update.rule

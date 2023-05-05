@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/CMakeFiles/rnnoise-populate"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/CMakeFiles/rnnoise-populate.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/CMakeFiles/rnnoise-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-build.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-download.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-install.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-test.rule"
+		},
+		{
+			"file" : "D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/rnnoise-subbuild/rnnoise-populate-prefix/src/rnnoise-populate-stamp/rnnoise-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rnnoise-populate"
+		],
+		"name" : "rnnoise-populate"
+	}
+}

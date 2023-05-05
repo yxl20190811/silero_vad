@@ -1,0 +1,14 @@
+# Target labels
+ gflags-populate
+# Source files and their labels
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/gflags-populate
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/gflags-populate.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/CMakeFiles/gflags-populate-complete.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-build.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-configure.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-download.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-install.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-mkdir.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-patch.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-test.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/gflags-subbuild/gflags-populate-prefix/src/gflags-populate-stamp/gflags-populate-update.rule

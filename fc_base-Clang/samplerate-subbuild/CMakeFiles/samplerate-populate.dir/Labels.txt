@@ -1,0 +1,14 @@
+# Target labels
+ samplerate-populate
+# Source files and their labels
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/CMakeFiles/samplerate-populate
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/CMakeFiles/samplerate-populate.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/CMakeFiles/samplerate-populate-complete.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-build.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-configure.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-download.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-install.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-mkdir.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-patch.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-test.rule
+D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/samplerate-subbuild/samplerate-populate-prefix/src/samplerate-populate-stamp/samplerate-populate-update.rule
