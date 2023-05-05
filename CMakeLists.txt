@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
 
 project(silero_vad VERSION 0.1)
-
 include(FetchContent)
 set(FETCHCONTENT_QUIET OFF)
 get_filename_component(fc_base
@@ -21,7 +20,7 @@ else()
 endif()
 
 list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
-target_include_directories(${PROJECT_NAME} PUBLIC .)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
 include(gflags)
 set(WITH_GFLAGS OFF CACHE BOOL "whether build glog with gflags" FORCE)

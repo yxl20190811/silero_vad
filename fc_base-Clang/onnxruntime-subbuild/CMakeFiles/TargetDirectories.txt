@@ -1,3 +1,0 @@
-D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate.dir
-D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/edit_cache.dir
-D:/Git/BossDictation/whisper/silero_vad/fc_base-Clang/onnxruntime-subbuild/CMakeFiles/rebuild_cache.dir
