@@ -21,9 +21,10 @@ class VadModel : public OnnxModel {
   float Vad(const std::vector<float>& pcm, std::vector<float>* start_pos,
             std::vector<float>* stop_pos);
 
- private:
+ public:
   float Forward(const std::vector<float>& pcm);
 
+ private:
   bool denoise_ = false;
   int sample_rate_;
   float threshold_;
