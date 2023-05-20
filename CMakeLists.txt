@@ -33,5 +33,4 @@ include(onnx)
 
 add_subdirectory(front_vad)
 add_subdirectory(vad)
-add_executable(vad_main bin/vad_main.cc)
-target_link_libraries(vad_main PUBLIC vad gflags)
+
