@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#include "frontend/resampler.h"
+#include "front_vad/resampler.h"
 
 void Resampler::Resample(int in_sr, const std::vector<float>& in_pcm,
                          int out_sr, std::vector<float>* out_pcm) {

@@ -5,9 +5,9 @@
 
 #include <memory>
 
-#include "frontend/denoiser.h"
-#include "frontend/resampler.h"
-#include "frontend/sample_queue.h"
+#include "front_vad/denoiser.h"
+#include "front_vad/resampler.h"
+#include "front_vad/sample_queue.h"
 
 #define SIZE_HC 128  // 2 * 1 * 64
 

@@ -21,7 +21,7 @@
 #include "glog/logging.h"
 #include "rnnoise/rnnoise.h"
 
-#include "frontend/sample_queue.h"
+#include "front_vad/sample_queue.h"
 
 #define FRAME_SIZE 480  // According to rnnoise/src/denoise.c
 
