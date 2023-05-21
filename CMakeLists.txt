@@ -30,7 +30,8 @@ include(glog)
 include(rnnoise)
 include(onnx)
 
-
 add_subdirectory(front_vad)
-add_subdirectory(vad)
 
+
+add_library(silero_vad STATIC vad/onnx_model.cc vad/vad_model.cc)
+target_link_libraries(silero_vad glog onnxruntime  front_vad)
